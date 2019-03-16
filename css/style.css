@@ -1,0 +1,37 @@
+body{
+  background:rgb(180,160,0);
+  font-size:30px;
+  font-family:Comic Sans MS;
+}
+#main{
+  font-size:60px;
+}
+table {
+    border-style: hidden;
+  color:green;
+}
+td,th {
+    border: 5px solid rgb(60,0,70);
+}
+#heading{
+  background:rgb(100,0,60);
+  color:white;
+}
+button{
+  background:rgb(180,160,0);
+  color:rgb(180,160,0);
+  border-color:rgb(180,160,0);
+}
+#X{
+  width:100px;
+  height:50px;
+  font-size:30px;
+}
+#O{
+  width:100px;
+  height:50px;
+  font-size:30px;
+}
+#win{
+  color:rgb(130,0,0);
+}
